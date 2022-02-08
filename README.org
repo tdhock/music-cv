@@ -78,7 +78,9 @@ souba (sousaphone) player Mathieu Choinet.
   Brazil, Apr 2012 https://www.youtube.com/watch?v=NJI08G7g7xM (bari
   sax solo)
 - We recorded the 6 song EP Cocorico in Rio de Janeiro in Mar 2012,
-  and I played the solo on [[https://finespolettes.bandcamp.com/track/fat-city-strut][Fat City Strut]]. [[file:2012-finespo-cocorico.jpg]]
+  and I played the solo on [[https://finespolettes.bandcamp.com/track/fat-city-strut][Fat City Strut]].
+#+attr_html: :width 100px
+[[file:2012-finespo-cocorico.jpg]]
 
 My bandmates went on to play with...
 - Drummer Alex Bayle with [[https://youtu.be/WYmyKpZLC4k][Les Freres Smith]], [[https://www.youtube.com/watch?v=20VQf3hdBuM][Paname Afrogroove
