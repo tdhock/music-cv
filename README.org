@@ -1,3 +1,5 @@
+[[file:2019-toby-bari-blue.jpg]]
+
 Bio: Toby Dylan Hocking began making music on the clarinet and baritone sax in the public school bands of Orange County, California. In 2002-2008 he lived in Berkeley, California where he played alto sax with the 200-piece University of California Marching Band, and with the 10-piece political activism street band, Brass Liberation Orchestra. In 2008-2012 he lived in Paris, France where he played alto and baritone sax with Les Fines Pôlettes, a 15-piece fanfare (French brass band). In 2013 he lived in Tokyo, Japan where he played baritone sax with Los Guaracheros, the latin jazz big band of the Tokyo Institute of Technology. In 2014-2018 he lived in Montreal, Canada where he played baritone sax with The Van Hornies, a 15-piece fanfare. Since 2018 he lives in Flagstaff, Arizona where he plays baritone sax with a rock band, F-Town Sound, and the Extra Extra Brass Band.
 
 ** [[https://ftownsound.com/][F-Town Sound]], Flagstaff, AZ, USA 2018-present, bari sax
@@ -8,8 +10,6 @@ some originals. Director Jason Syracuse.
   https://www.youtube.com/watch?v=9ot5kbVyyIQ
 - Crystal Frontier at Flagstaff Foundry, Jan 2019
   https://www.youtube.com/watch?v=LxTmlZe7oUY (bari sax solo)
-
-[[file:2019-toby-bari-blue.jpg]]
 
 [[file:2020-ftown-heritage-square.jpg]]
 
@@ -77,9 +77,9 @@ souba (sousaphone) player Mathieu Choinet.
 - It Don't Mean A Thing in front of a metro station, Rio de Janeiro,
   Brazil, Apr 2012 https://www.youtube.com/watch?v=NJI08G7g7xM (bari
   sax solo)
-- We recorded the 6 song EP Cocorico in Rio de Janeiro in Mar 2012,
-  and I played the solo on [[https://finespolettes.bandcamp.com/track/fat-city-strut][Fat City Strut]].
-#+attr_html: :width 100px
+- We recorded the 6 song EP called "Cocorico" in Rio de Janeiro in Mar
+  2012, and I played the solo on [[https://finespolettes.bandcamp.com/track/fat-city-strut][Fat City Strut]]. 
+
 [[file:2012-finespo-cocorico.jpg]]
 
 My bandmates went on to play with...
