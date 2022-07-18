@@ -1,11 +1,35 @@
 [[file:2019-toby-bari-blue.jpg]]
 
-Bio: Toby Dylan Hocking began making music on the clarinet and baritone sax in the public school bands of Orange County, California. In 2002-2008 he lived in Berkeley, California where he played alto sax with the 200-piece University of California Marching Band, and with the 10-piece political activism street band, Brass Liberation Orchestra. In 2008-2012 he lived in Paris, France where he played alto and baritone sax with Les Fines Pôlettes, a 15-piece fanfare (French brass band). In 2013 he lived in Tokyo, Japan where he played baritone sax with Los Guaracheros, the latin jazz big band of the Tokyo Institute of Technology. In 2014-2018 he lived in Montreal, Canada where he played baritone sax with The Van Hornies, a 15-piece fanfare. Since 2018 he lives in Flagstaff, Arizona where he plays baritone sax with a rock band, F-Town Sound, and the Extra Extra Brass Band.
+Bio: Toby Dylan Hocking began making music on the clarinet and
+baritone sax in the public school bands of Orange County,
+California. In 2002-2008 he lived in Berkeley, California where he
+played alto sax with the 200-piece University of California Marching
+Band, and with the 10-piece political activism street band, Brass
+Liberation Orchestra. In 2008-2012 he lived in Paris, France where he
+played alto and baritone sax with Les Fines Pôlettes, a 15-piece
+fanfare (French brass band). In 2013 he lived in Tokyo, Japan where he
+played baritone sax with Los Guaracheros, the latin jazz big band of
+the Tokyo Institute of Technology. In 2014-2018 he lived in Montreal,
+Canada where he played baritone sax with The Van Hornies, a 15-piece
+fanfare. Since 2018 he lives in Flagstaff, Arizona where he plays
+baritone sax with F-Town Sound (rock), the Extra Extra Brass
+Band, and occasionally with Summit Dub Squad (reggae).
 
 ** [[http://extraextrabrassband.com/][Extra Extra Brass Band]], Flagstaff, AZ, USA 2021-present, bari sax
 
 10-piece brass band which plays danceable pop covers.
 - [[https://youtu.be/7IoLCqsgicM][Tongue Tied crowd clip]], 22 May 2022, bari sax solo.
+
+** [[https://summitdubsquad.com/home][Summit Dub Squad]], Flagstaff, AZ, USA 2020-2022, bari sax
+
+Longtime Flagstaff reggae/ska band, with core members B Dub the
+Artist, Hunter E. RedDay, Andrew 'dj SOE' Baker. I was invited to play
+as a guest horn player. Played some really fun gigs including
+Irie-Zona reggae festival in Buckeye April 2021, and opening for
+Stephen Marley in Flagstaff July 2022.
+- Full concert at Orpheum in Flagstaff,
+  https://www.youtube.com/watch?v=eSm3QJ4dIMU&feature=youtu.be&t=3620
+- Recorded a CD [[https://summitdubsquad.bandcamp.com/album/and-the-saga-continues?pk=595][...And The Saga Continues...]] in 2021.
 
 ** [[https://ftownsound.com/][F-Town Sound]], Flagstaff, AZ, USA 2018-present, bari sax
 
@@ -20,13 +44,6 @@ some originals. Director Jason Syracuse.
 
 [[file:2020-ftown-orpheum.jpg]]
   
-** [[https://www.facebook.com/summitdubsquad][Summit Dub Squad]], Flagstaff, AZ, USA 2020-2021, bari sax
-
-Longtime Flagstaff reggae/ska band, I was invited to play as a "guest"
-horn player.
-- Full concert at Orpheum in Flagstaff,
-  https://www.youtube.com/watch?v=eSm3QJ4dIMU&feature=youtu.be&t=3620
-
 ** [[http://vanhornies.ca/][The Van Hornies]], Montreal, QC, Canada 2016-2018, bari sax
 
 French-style fanfare (brass band) in Montreal. Repertoire: brass band
@@ -91,6 +108,11 @@ My bandmates went on to play with...
 - Drummer Alex Bayle with [[https://youtu.be/WYmyKpZLC4k][Les Freres Smith]], [[https://www.youtube.com/watch?v=20VQf3hdBuM][Paname Afrogroove
   Connection]], ...
 - Sousaphonist Mathieu Choinet with [[https://www.youtube.com/watch?v=gIaq09yiCac][Grizz-Li]], [[https://www.youtube.com/watch?v=GqRTIPKM4_M][Balaphonics]], ...
+
+In Paris in 2011, in [[https://saxmachineparis.com/][Marianne d'Ursin's Sax Machine shop]], 46 rue de la
+Rochefoucauld in the 9th, I bought Weltklang saxophone number 3155,
+which was apparently built by the [[https://bassic-sax.info/version5/vintage-saxes/european-made-saxes/veb-blechblas-und-signal-instrumenten-fabrik-bs/weltklang/][B&S company in East Germany]] in [[https://bassic-sax.info/version5/wp-content/uploads/2021/03/welklang-research-march-25-2018.xls][1969]]
+(or 1970).
 
 ** [[http://www.balkansambl.fr/ ][Balkansambl]], Paris, France 2010-2011, alto sax
 
